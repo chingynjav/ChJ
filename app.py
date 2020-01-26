@@ -28,11 +28,11 @@
 # print(a.lower())
 # print(a.upper())
 # a=2
+
 a=6
 b=2
 
-if a>b :
+if a!= :
     print("a ih")
 else:
     print("b ih")
-    
